@@ -11,8 +11,6 @@ This is an interactive dashboard project built using **Power BI**, showcasing va
 - Used **DAX** for data calculations
 - Visually appealing charts for ratings, genres, studios, etc.
 
-### 📸 Preview:
-![Dashboard Screenshot](dashboard_screenshot.png)
 
 ### 🙏 Special Thanks:
 To **Gyan Priya Mishra Ma’am** for mentorship and Power BI guidance.  
