@@ -3,7 +3,7 @@
 This is an interactive dashboard project built using **Power BI**, showcasing various anime insights and trends.
 
 ### 🔧 Features:
-- Custom anime dataset created using ChatGPT
+-From data creation to dashboard design, everything was done from scratch.
 - Fully interactive layout with:
   - Filters & slicers
   - Buttons & page navigation
