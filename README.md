@@ -2,21 +2,26 @@
 
 This is an interactive dashboard project built using **Power BI**, showcasing various anime insights and trends.
 
-### 🔧 Features:
--From data creation to dashboard design, everything was done from scratch.
-- Fully interactive layout with:
-  - Filters & slicers
-  - Buttons & page navigation
-  - Bookmarks & selections
-- Used **DAX** for data calculations
-- Visually appealing charts for ratings, genres, studios, etc.
 
+### 🚀 Features:
+- Custom dataset created using ChatGPT
+- From data creation to dashboard design, everything was done from scratch.
+- Used various Power BI visuals (bar charts, pie charts, cards, line charts)
+- Implemented **DAX** measures
+- Used slicers, filters, bookmarks, buttons, and page navigation
+- Clean, interactive, and user-friendly layout
 
-### 🙏 Special Thanks:
-To **Gyan Priya Mishra Ma’am** for mentorship and Power BI guidance.  
+### 📁 Files Included:
+- `Anime_Dashboard.pbix`: The Power BI dashboard file
+- `dashboard_preview.png`: Screenshot of the dashboard
+- `dataset_info.txt`: Information about the dataset used
+
+### 🙏 Acknowledgements:
+Big thanks to **Gyan Priya Mishra Ma’am** for her guidance and teaching during this project.  
 #GyanpriyaMishra
 
 ---
 
-### 📁 File
-- `Anime_Dashboard.pbix`: Power BI project file
+### 📌 Author
+Akshat Anand  
+🔗 [LinkedIn](https://www.linkedin.com/in/akshat-anand-6625b22a6/) | [GitHub](https://github.com/Bk-Akshat)
